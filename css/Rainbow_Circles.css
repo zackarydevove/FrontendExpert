@@ -1,0 +1,32 @@
+div {
+    border-radius: 50%
+}
+  
+#outer {
+    height: 200px;
+    width: 200px;
+    background-color: #ffa500;
+    border: solid;
+    border-color: #ff0000;
+    border-width: 25px;
+    padding: 25px;
+}
+  
+  
+#middle {
+    height: 100px;
+    width: 100px;
+    background-color: #008000;
+    border: solid;
+    border-color: #ffff00;
+    border-width: 25px;
+    padding: 25px;
+}
+#inner {
+    height: 50px;
+    width: 50px;
+    background-color: #800080;
+    border: solid;
+    border-color: #0000ff;
+    border-width: 25px;
+}  
