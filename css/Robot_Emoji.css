@@ -1,0 +1,47 @@
+.head {
+  width: 150px;
+  height: 150px;
+  margin: 50px;
+  background-color: #a4d9eb;
+  border: 5px solid #9bbcc2;
+  border-radius: 20px;
+}
+
+.light {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bulb {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-bottom: -5px;
+  background-color: #ffa500;
+}
+
+.stick {
+  width: 10px;
+  height: 15px;
+  background-color: #808080;
+  z-index: -1;
+}
+
+.ears {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+}
+
+.ear {
+  width: 10px;
+  height: 50px;
+  background-color: #c90a0a;
+}
+
+.eyes {
+  width: 30px;
+  height: 30px;
+  
+}
